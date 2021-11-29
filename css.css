@@ -1,0 +1,51 @@
+ul {
+    display: flex ;
+    justify-content: space-around;
+    
+    height: 70px;
+    margin-bottom: -10px;
+}
+a{
+    font-size: 25px;
+color: rgb(0, 0, 0);;
+
+}
+li{
+    list-style: none;
+    margin-top: 15px;
+}
+main {
+    margin-top: -20px;
+    
+}
+h1{
+    
+    font-size:50px;
+    line-height: 50px;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+body{
+    background-image: url('wallpaperbetter.com_1366x768.jpg');
+}
+span{
+    color: rgb(0, 4, 250);
+}
+div.image {
+   float: right ;
+   
+}
+iframe{
+    width: 100%;
+    height: 400px;
+}
+img.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+div.youtube{
+    color: red;
+}
